@@ -51,6 +51,7 @@
      <Compile Include="Assets\CUDLR\Scripts\Console.cs" />
      <Compile Include="Assets\CUDLR\Scripts\Extensions.cs" />
      <Compile Include="Assets\CUDLR\Scripts\Server.cs" />
+     <Compile Include="Assets\FoodyGo\Scripts\Controllers\CharacterGPSCompassController.cs" />
      <Compile Include="Assets\FoodyGo\Scripts\Mapping\Geometry.cs" />
      <Compile Include="Assets\FoodyGo\Scripts\Mapping\GoogleMapTile.cs" />
      <Compile Include="Assets\FoodyGo\Scripts\Mapping\GoogleMapUtils.cs" />
