@@ -1,7 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foody Go", "Assembly-CSharp-firstpass.csproj", "{95056577-4829-9E7C-FEDB-0EEF9D28509F}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foody Go", "Assembly-CSharp.csproj", "{F9E2C838-6CB3-2CBA-F2B0-67455E73D716}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foody Go", "Assembly-CSharp-Editor-firstpass.csproj", "{A290EE61-7B54-CE8E-0A42-BD7E98590BC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +13,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95056577-4829-9E7C-FEDB-0EEF9D28509F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95056577-4829-9E7C-FEDB-0EEF9D28509F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95056577-4829-9E7C-FEDB-0EEF9D28509F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95056577-4829-9E7C-FEDB-0EEF9D28509F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F9E2C838-6CB3-2CBA-F2B0-67455E73D716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F9E2C838-6CB3-2CBA-F2B0-67455E73D716}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9E2C838-6CB3-2CBA-F2B0-67455E73D716}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9E2C838-6CB3-2CBA-F2B0-67455E73D716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A290EE61-7B54-CE8E-0A42-BD7E98590BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A290EE61-7B54-CE8E-0A42-BD7E98590BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A290EE61-7B54-CE8E-0A42-BD7E98590BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A290EE61-7B54-CE8E-0A42-BD7E98590BC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
