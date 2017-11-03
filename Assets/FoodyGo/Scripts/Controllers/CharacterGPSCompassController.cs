@@ -14,6 +14,6 @@ public class CharacterGPSCompassController : MonoBehaviour {
 		//Orient an Object to POint to magnetic north and adjust map reversal
 		var heading = 180 + Input.compass.magneticHeading;
 		var rotation = Quaternion.AngleAxis(heading,Vector3.up);
-		transform.rotation=rotation;
+		transform.rotation=Quaternion.Slerp(transform.rotation,rotation, Time.fixedTime*.001f);
 	}
 }
