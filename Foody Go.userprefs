@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Foody Go.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\FoodyGo\Scripts\Services\GPSLocationService.cs">
+    <Files>
+      <File FileName="Assets\FoodyGo\Scripts\Services\GPSLocationService.cs" Line="70" Column="63" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
